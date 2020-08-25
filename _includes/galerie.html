@@ -1,0 +1,29 @@
+<section id="main">
+    <div class="container">
+      <header>
+        <h2>Galerie</h2>
+      </header>
+      <div class="row aln-center">
+
+          <!-- Keramische Arbeit -->
+
+          {% for keramische_arbeit in site.data.daten.galerie %}
+            <div class="col-4 col-6-medium col-12-small">
+            <section>
+              <a href="bilder/medium/{{ keramische_arbeit }}.jpg" class="image featured"><img src="bilder/small/{{ keramische_arbeit }}.jpg" alt="" /></a>
+              <header>
+                <!--<h3>{{ keramische_arbeit.name }}</h3>-->
+              </header>
+              <!--<p>{{ keramische_arbeit.content | markdownify }}</p>-->
+            </section>
+            </div>
+          {% endfor %}
+
+
+
+          <!-- Keramische Arbeit Ende -->
+
+
+      </div>
+    </div>
+</section>

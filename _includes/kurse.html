@@ -1,0 +1,39 @@
+<section id="main">
+    <div class="container">
+      <div class="row">
+        <div id="content" class="col-12 col-12-medium">
+
+          <!-- Post -->
+            {% assign sorted_kurse = site.kurse | sort:"num" %}
+
+            {% for post in sorted_kurse %}
+            <article class="box post">
+              <header>
+                <h2>{{ post.title }} </h2>{{ post.datum }}
+              </header>
+              <br>
+              <!--<a href="bilder/{{ post.bild}}" class="image featured"><img src="bilder/{{ post.bild}}" alt="" /></a>-->
+              {{ post.content | markdownify }}
+            </article>
+            {% endfor %}
+
+            <article class="box post">
+              <header>
+                <h2>Anmeldung zu den Kursen</h2>
+              </header>
+
+              <h1>
+              Gutscheine für die Kurse können im Keramikatelier oder per E-Mail erworben werden und eignen sich hervorragend als Weihnachtsgeschenke!!
+              </h1>
+                <br>
+              <h1>
+              Die Kurse eignen sich für Anfänger und Fortgeschrittene. Vorkenntnisse sind daher nicht erforderlich.
+              </h1>
+              <br>
+              Anmeldungen sind ab sofort möglich unter jolejokeramik@web.de . Die Kurse kommen nur dann zustande, wenn es mindestens 6 Teilnehmer gibt.
+            </article>
+
+        </div>
+      </div>
+    </div>
+</section>

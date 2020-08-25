@@ -1,0 +1,21 @@
+# jekyll serve --baseurl '' --host 0.0.0.0
+baseurl: www.jolejo.de
+
+collections:
+  keramische_arbeiten:
+    output: true
+  content_posts:
+    output: true
+  news:
+    output: true
+  kurse:
+    output: true
+
+
+
+# # docker-compose up
+# 
+# # https://github.com/BretFisher/jekyll-serve
+# # jekyll serve --baseurl ''
+# # baseurl: www.jolejo.de
+# baseurl: ''
