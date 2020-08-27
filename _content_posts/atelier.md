@@ -16,12 +16,6 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-# __Ferien__
-
-<br>
-Wir machen Ferien vom 13.07 bis zum 03.08.2020. In dieser Zeit bleibt das Keramikatelier geschlossen.
-<br>
-
 # __Das Keramikatelier hat für den Verkauf wieder geöffnet!__
 
 <br>
