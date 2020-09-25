@@ -18,9 +18,11 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 # __Das Keramikatelier hat für den Verkauf wieder geöffnet!__
 
+<br>
+
 __ACHTUNG: Betriebsferien: In der Woche vom 12. bis 18.10. 2020__
 
-<br>
+
 Öffnungszeiten:<br>
 Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
