@@ -16,7 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-# __Das Keramikatelier hat für den Verkauf wieder geöffnet!__
+# __Es gibt wieder neue Kurse!__
 
 <br>
 
