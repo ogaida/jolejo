@@ -20,7 +20,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 <br>
 
-__ACHTUNG: Betriebsferien: In der Woche vom 12. bis 18.10. 2020__
+<!-- __ACHTUNG: Betriebsferien: In der Woche vom 12. bis 18.10. 2020__ -->
 
 
 Öffnungszeiten:<br>
