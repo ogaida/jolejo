@@ -16,7 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-# __Es gibt wieder neue Kurse!__
+# __Das Atelier bleibt geöffnet!__
 
 <br>
 
@@ -27,6 +27,13 @@ Anfahrt: [Google-Maps](google_maps.html)
 Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
+
+Sonderöffnungszeiten ab 24.11.2020:<br>
+Dienstag     10-15 Uhr<br>
+Mittwoch    15-18 Uhr<br>
+Donnerstag 13-20 Uhr<br>
+Freitag        13-17 Uhr<br>
+Samstag      10-13 Uhr<br>
 
 
 ###  Impressum:
