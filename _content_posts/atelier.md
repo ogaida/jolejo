@@ -16,12 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-# __Das Atelier bleibt geöffnet!__
-
-<br>
-
 <!-- __ACHTUNG: Betriebsferien: In der Woche vom 12. bis 18.10. 2020__ -->
-
 
 Öffnungszeiten:<br>
 Dienstag 10-15 Uhr<br>
