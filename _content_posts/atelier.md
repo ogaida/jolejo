@@ -16,20 +16,16 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-<!-- __ACHTUNG: Betriebsferien: In der Woche vom 12. bis 18.10. 2020__ -->
+ __ACHTUNG: Das Atelier ist vom 16.12.2020 bis 10.01.2020 geschlossen__
 
 Öffnungszeiten:<br>
 Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
 
-__Sonderöffnungszeiten ab 24.11.2020:<br>
-Dienstag     10-15 Uhr<br>
-Mittwoch    15-18 Uhr<br>
-Donnerstag 13-20 Uhr<br>
-Freitag        13-17 Uhr<br>
-Samstag      10-13 Uhr__<br>
-
+__Sonderöffnungszeiten 2020:<br>
+Montage (14.12.)     10-15 Uhr<br>
+Dienstag (15.12.)    10-15 Uhr<br>
 
 ###  Impressum:
 
