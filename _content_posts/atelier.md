@@ -24,8 +24,8 @@ Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
 
 __Sonderöffnungszeiten 2020:<br>
-Montage (14.12.)     10-15 Uhr<br>
-Dienstag (15.12.)    10-15 Uhr__<br>
+Montage (14.12.)     11-18 Uhr<br>
+Dienstag (15.12.)    10-18 Uhr__<br>
 
 ###  Impressum:
 
