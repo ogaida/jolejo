@@ -17,6 +17,8 @@ Anfahrt: [Google-Maps](google_maps.html)
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
  __ACHTUNG: Das Atelier ist vom 16.12.2020 bis 10.01.2020 geschlossen__
+ 
+ Via Telefon bin ich erreichbar.
 
 Öffnungszeiten:<br>
 Dienstag 10-15 Uhr<br>
@@ -25,7 +27,7 @@ Donnerstag  13-20 Uhr<br>
 
 __Sonderöffnungszeiten 2020:<br>
 Montage (14.12.)     10-15 Uhr<br>
-Dienstag (15.12.)    10-15 Uhr<br>
+Dienstag (15.12.)    10-15 Uhr__<br>
 
 ###  Impressum:
 
