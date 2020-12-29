@@ -23,10 +23,6 @@ Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
 
-__Sonderöffnungszeiten 2020:<br>
-Montag (14.12.)     11-18 Uhr<br>
-Dienstag (15.12.)    10-18 Uhr__<br>
-
 ###  Impressum:
 
 Verantwortliche gemäß §6 MDStV: Claudia Püschel, Kinzerallee 21, 12555 Köpenick
