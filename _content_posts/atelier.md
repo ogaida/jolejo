@@ -18,10 +18,12 @@ Anfahrt: [Google-Maps](google_maps.html)
 
  __ACHTUNG: Das Atelier bleibt nach aktueller behördlicher Anordnung bis zum 10. Januar geschlossen. Über Telefon bin ich erreichbar.__
 
+<--!
 Öffnungszeiten:<br>
 Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
+-->
 
 ###  Impressum:
 
