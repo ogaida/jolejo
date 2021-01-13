@@ -16,7 +16,9 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
- __ACHTUNG: Das Atelier bleibt nach aktueller behördlicher Anordnung bis zum 10. Januar geschlossen. Über Telefon bin ich erreichbar.__
+__ACHTUNG: Das Atelier bleibt nach aktueller behördlicher Anordnung weiterhin geschlossen.__
+<br> 
+__Wenn Sie etwas bestellen möchten oder Sie haben etwas im Schaufenster entdeckt, dass Ihnen gefällt, rufen Sie mich einfach an und vereinbaren Sie einen Termin zu Abholung.__
 
 <!--
 Öffnungszeiten:<br>
