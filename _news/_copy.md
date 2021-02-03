@@ -1,6 +1,8 @@
 ---
 title: weiterhin geschlossen
 num: 1
+pictures:
+  - Basar_der_schoenen_dinge
 ---
 
 __ACHTUNG: Das Atelier bleibt nach aktueller behördlicher Anordnung weiterhin geschlossen.__
@@ -10,3 +12,4 @@ __Wenn Sie etwas bestellen möchten oder Sie haben etwas im Schaufenster entdeck
 
 Künstler können im Moment jede Unterstützung gebrauchen !!!
 
+__Das Atelier bleibt nach aktueller behördlicher Anordnung bis zum 10. Januar geschlossen.__
