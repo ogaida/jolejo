@@ -18,14 +18,13 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 __Das Atelier ist wieder geöffnet!__
 <br> <br>
-__Ich bin zu den gewohnten Öffungszeiten__
-
-Öffnungszeiten:<br>
+__Ich bin zu den gewohnten Öffungszeiten:<br>
 Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
+wieder für Sie da!
 
-__Bitte buchen Sie für Ihren Einfauf, vor Ort oder telefonisch, einen Termin.__
+Bitte buchen Sie für Ihren Einfauf, vor Ort oder telefonisch, einen Termin.__
 
 Bis Ostern ist das Atelier auch am<br>
 Samstag 10-13 Uhr<br>
