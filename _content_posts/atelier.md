@@ -16,16 +16,22 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-__ACHTUNG: Das Atelier bleibt nach aktueller behördlicher Anordnung weiterhin geschlossen.__
+__Das Atelier ist wieder geöffnet!__
 <br> <br>
-__Wenn Sie etwas bestellen möchten oder Sie haben etwas im Schaufenster entdeckt, dass Ihnen gefällt, rufen Sie mich einfach an und vereinbaren Sie einen Termin zur Abholung.__
+__Ich bin zu den gewohnten Öffungszeiten__
 
-<!--
 Öffnungszeiten:<br>
 Dienstag 10-15 Uhr<br>
 Mittwoch  15-18 Uhr<br>
 Donnerstag  13-20 Uhr<br>
--->
+
+__Bitte buchen Sie für Ihren Einfauf, vor Ort oder telefonisch, einen Termin.__
+
+Bis Ostern ist das Atelier auch am<br>
+Samstag 10-13 Uhr<br>
+geöffnet.
+
+Betriebsferien sind vom Sonntag 4.4. bis einschließlich Montag 12.4. 2021
 
 ###  Impressum:
 
