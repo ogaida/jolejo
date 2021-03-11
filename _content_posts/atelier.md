@@ -18,7 +18,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 __Das Atelier ist wieder geöffnet!__
 <br> <br>
-__Ich bin zu den gewohnten Öffungszeiten:__<br>
+__Ich bin zu den gewohnten Öffungszeiten__<br>
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch  15-18 Uhr__<br>
 __Donnerstag  13-20 Uhr__<br>
