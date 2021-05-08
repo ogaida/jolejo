@@ -22,15 +22,10 @@ __Ich bin zu den gewohnten Öffungszeiten__<br>
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch  15-18 Uhr__<br>
 __Donnerstag  13-20 Uhr__<br>
+__Samstag 10-13 Uhr__<br>
 __wieder für Sie da!__
 
 __Bitte buchen Sie für Ihren Einfauf, vor Ort oder telefonisch, einen Termin.__
-
-Bis Ostern ist das Atelier auch am<br>
-Samstag 10-13 Uhr<br>
-geöffnet.
-
-Betriebsferien sind vom Sonntag 4.4. bis einschließlich Montag 12.4. 2021
 
 ###  Impressum:
 
