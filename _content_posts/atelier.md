@@ -16,7 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-__Das Atelier ist wieder geöffnet!__
+__Das Atelier ist geöffnet!__
 <br> <br>
 __Ich bin zu den gewohnten Öffungszeiten__<br>
 __Dienstag 10-15 Uhr__<br>
