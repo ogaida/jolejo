@@ -16,7 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-__Achtung: Das Atelier bleibt am Donnerstag 20.05 und Samstag 5.06. geschlossen. __
+__Achtung: Das Atelier bleibt am Donnerstag dem 20. Mai und Samstag dem 5. Juni geschlossen.__
 
 __Das Atelier ist geöffnet!__
 <br> <br>
