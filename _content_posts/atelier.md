@@ -16,7 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-__Achtung: Das Atelier bleibt am Donnerstag dem 20. Mai und Samstag dem 5. Juni geschlossen.__
+__Achtung: Betriebsferien vom 7. Juli bis 2. August 2021__
 
 __Das Atelier ist geöffnet!__
 <br> <br>
@@ -24,7 +24,6 @@ __Ich bin zu den gewohnten Öffungszeiten__<br>
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch  15-18 Uhr__<br>
 __Donnerstag  13-20 Uhr__<br>
-__Samstag 10-13 Uhr__<br>
 __wieder für Sie da!__
 
 __Im  Atelier kann wieder ohne Terminvereinbarung eingekauft werden.__
