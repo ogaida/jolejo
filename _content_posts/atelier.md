@@ -21,7 +21,7 @@ __Achtung:__
 __- Betriebsferien vom 18. Oktober bis zum 22. Oktober 2021. In dieser Zeit ist das Atelier geschlossen.__ <br>
 __- Betriebsferien vom 24. Dezember 2021 bis zum 4. Januar 2022. In dieser Zeit ist das Atelier geschlossen.__
 
-__Weihnachtsöffnungszeiten, ab Freitag, den 19. November:__
+__Weihnachtsöffnungszeiten, ab Freitag, den 19. November 2021:__
 <br> <br>
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch 15-18 Uhr__<br>
