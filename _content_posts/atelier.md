@@ -16,7 +16,10 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-__Achtung: Betriebsferien vom 7. Juli bis zum 2. August 2021. In dieser Zeit ist das Atelier geschlossen.__
+__Achtung: 
+
+- Betriebsferien vom 18. Oktober bis zum 22. Oktober 2021. In dieser Zeit ist das Atelier geschlossen.
+- Betriebsferien vom 24. Dezember 2021 bis zum 4. Januar 2022. In dieser Zeit ist das Atelier geschlossen.__
 
 __Das Atelier ist geöffnet!__
 <br> <br>
