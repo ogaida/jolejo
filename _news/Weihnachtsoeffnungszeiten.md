@@ -1,5 +1,5 @@
 ---
-title: Weihnachtsöffnungszeiten, ab Freitag, den 19. November:
+title: Weihnachtsöffnungszeiten, ab Freitag, den 19. November
 num: 1
 ---
 
