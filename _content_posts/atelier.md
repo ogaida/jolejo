@@ -22,6 +22,12 @@ __- Betriebsferien vom 24. Dezember 2021 bis zum 4. Januar 2022. In dieser Zeit 
 
 ### Weihnachtsöffnungszeiten, ab Freitag, den 19. November 2021:
 
+|          |             |
+| :------- | :---------- |
+| Dienstag | 10 - 15 Uhr |
+| Mittwoch | 15 - 18 Uhr |
+
+
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch 15-18 Uhr__<br>
 __Donnerstag 13-20 Uhr__<br>
