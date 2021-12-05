@@ -22,21 +22,15 @@ __- Betriebsferien vom 24. Dezember 2021 bis zum 4. Januar 2022. In dieser Zeit 
 
 ### Weihnachtsöffnungszeiten, ab Freitag, den 19. November 2021:
 
-__Dienstag 10-15 Uhr__<br>
-__Mittwoch 15-18 Uhr__<br>
-__Donnerstag 13-20 Uhr__<br>
-__Freitag 11-17 Uhr__<br>
-__Samstag 10-13 Uhr__<br>
-
 <a href="bilder/weihnachts_vorverkauf.jpg" class="image featured"><img src="bilder/weihnachts_vorverkauf.jpg" alt="" /></a>
+
+__In meiner Keramikwerkstatt gelten laut Verordnung des Berliner Senats keine 2G Einschränkungen. Werkstätten sind von der 2G-Regelung ausgenommen.__
 
 ### allgemeine Öffnungszeiten:
 
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch  15-18 Uhr__<br>
 __Donnerstag  13-20 Uhr__<br>
-
-__In meiner Keramikwerkstatt gelten laut Verordnung des Berliner Senats keine 2G Einschränkungen. Werkstätten sind von der 2G-Regelung ausgenommen.__
 
 ###  Impressum:
 
