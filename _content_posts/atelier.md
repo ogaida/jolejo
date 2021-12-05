@@ -29,16 +29,13 @@ __Freitag 11-17 Uhr__<br>
 __Samstag 10-13 Uhr__<br>
 
 __allgemeine Öffnungszeiten:__
-<br><br>
-
-__In meiner Keramikwerkstatt gelten laut Verordnung des Berliner Senats keine 2G Einschränkungen. Werkstätten sind von der 2G-Regelung ausgenommen.__
 
 <br> <br>
 __Dienstag 10-15 Uhr__<br>
 __Mittwoch  15-18 Uhr__<br>
 __Donnerstag  13-20 Uhr__<br>
 
-__Im  Atelier kann wieder ohne Terminvereinbarung eingekauft werden.__
+__In meiner Keramikwerkstatt gelten laut Verordnung des Berliner Senats keine 2G Einschränkungen. Werkstätten sind von der 2G-Regelung ausgenommen.__
 
 ###  Impressum:
 
