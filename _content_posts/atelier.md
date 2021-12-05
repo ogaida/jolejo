@@ -28,7 +28,7 @@ __Donnerstag 13-20 Uhr__<br>
 __Freitag 11-17 Uhr__<br>
 __Samstag 10-13 Uhr__<br>
 
-![ein Bild](bilder/weihnachts_vorverkauf.jpg)
+<a href="bilder/weihnachts_vorverkauf.jpg" class="image featured"><img src="bilder/weihnachts_vorverkauf.jpg" alt="" /></a>
 
 ### allgemeine Öffnungszeiten:
 
