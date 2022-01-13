@@ -18,7 +18,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ### Achtung:
 
-__- Betriebsferien vom 24. Dezember 2021 bis zum 4. Januar 2022. In dieser Zeit ist das Atelier geschlossen.__
+__Aus Krankheitsgründen ist das Atelier zur Zeit geschlossen. Voraussichtlich am Mittwoch, dem 19. Januar wieder offen.__
 
 ### Weihnachtsöffnungszeiten, ab Freitag, den 19. November 2021:
 
