@@ -16,12 +16,6 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-<--!
-### Weihnachtsöffnungszeiten, ab Freitag, den 19. November 2021:
-
-<a href="bilder/weihnachts_vorverkauf.jpg" class="image featured"><img src="bilder/weihnachts_vorverkauf.jpg" alt="" /></a>
--->
-
 __In meiner Keramikwerkstatt gelten laut Verordnung des Berliner Senats keine 2G Einschränkungen. Werkstätten sind von der 2G-Regelung ausgenommen.__
 
 ### allgemeine Öffnungszeiten:
