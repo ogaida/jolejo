@@ -24,6 +24,12 @@ __Dienstag 10-15 Uhr__<br>
 __Mittwoch  15-18 Uhr__<br>
 __Donnerstag  13-20 Uhr__<br>
 
+### Kooperationspartner
+ 
+[https://www.milchkaffee-köpenick.de](https://www.milchkaffee-köpenick.de)
+ 
+[https://www.christinaweber.berlin](https://www.christinaweber.berlin)
+
 ###  Impressum:
 
 Verantwortliche gemäß §6 MDStV: Claudia Püschel, Kinzerallee 21, 12555 Köpenick
