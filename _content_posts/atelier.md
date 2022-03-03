@@ -26,9 +26,8 @@ __Donnerstag  13-20 Uhr__<br>
 
 ### Kooperationspartner
  
-[https://www.milchkaffee-köpenick.de](https://www.milchkaffee-köpenick.de)
- 
-[https://www.christinaweber.berlin](https://www.christinaweber.berlin)
+- [https://www.milchkaffee-köpenick.de](https://www.milchkaffee-köpenick.de)
+- [https://www.christinaweber.berlin](https://www.christinaweber.berlin)
 
 ###  Impressum:
 
