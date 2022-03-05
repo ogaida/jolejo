@@ -14,6 +14,17 @@
               <br>
               <!--<a href="bilder/{{ post.bild}}" class="image featured"><img src="bilder/{{ post.bild}}" alt="" /></a>-->
               {{ post.content | markdownify }}
+
+              <div class="row aln-center">
+              {% for pic in post.pictures %}
+                <div class="col-4 col-6-medium col-12-small">
+                <section>
+                  <a href="bilder/medium/{{ pic }}.jpg" class="image featured"><img src="bilder/small/{{ pic }}.jpg" alt="" /></a>
+                </section>
+                </div>
+              {% endfor %}
+              </div>
+
             </article>
             {% endfor %}
 
