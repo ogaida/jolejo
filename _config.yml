@@ -10,7 +10,8 @@ collections:
     output: true
   kurse:
     output: true
-
+  press:
+    output: true
 
 
 # # docker-compose up
