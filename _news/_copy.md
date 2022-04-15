@@ -1,15 +1,10 @@
 ---
-title: weiterhin geschlossen
+title: Betriebsferien vom 15.04.2022 bis 25.04.2022
+# title: Betriebsferien vom 25.07.2022 bis 15.08.2022
 num: 1
-pictures:
-  - Basar_der_schoenen_dinge
+#pictures:
+#  - Basar_der_schoenen_dinge
 ---
 
-__ACHTUNG: Das Atelier bleibt nach aktueller behördlicher Anordnung weiterhin geschlossen.__
-<br> <br>
-__Wenn Sie etwas bestellen möchten oder Sie haben etwas im Schaufenster entdeckt, dass Ihnen gefällt, rufen Sie mich einfach an und vereinbaren Sie einen Termin zur Abholung.__
+__ACHTUNG: Das Atelier bleibt während der Betriebsferien geschlossen.__
 
-
-Künstler können im Moment jede Unterstützung gebrauchen !!!
-
-__Das Atelier bleibt nach aktueller behördlicher Anordnung bis zum 10. Januar geschlossen.__

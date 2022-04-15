@@ -16,6 +16,10 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
+### Betriebsferien
+
+Das Atelier ist während der Betriebsferien vom 15.04.2022 bis 25.04.2022 geschlossen.
+
 ### allgemeine Öffnungszeiten:
 
 __Dienstag 10-15 Uhr__<br>
