@@ -18,7 +18,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ### Betriebsferien
 
-Das Atelier ist während der Betriebsferien vom 15.04.2022 bis 25.04.2022 geschlossen.
+__Das Atelier ist während der Betriebsferien vom 15.04.2022 bis 25.04.2022 geschlossen.__
 
 ### allgemeine Öffnungszeiten:
 
