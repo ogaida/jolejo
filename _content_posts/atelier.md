@@ -27,6 +27,7 @@ __Donnerstag  13-20 Uhr__<br>
 - [https://www.milchkaffee-köpenick.de](https://www.milchkaffee-köpenick.de)
 - [https://www.christinaweber.berlin](https://www.christinaweber.berlin)
 - [https://www.gaertnerei-hirschgarten.de/](https://www.gaertnerei-hirschgarten.de/)
+- [http://www.ausloesungserscheinungen.de/](http://www.ausloesungserscheinungen.de/)
 
 ###  Impressum:
 
