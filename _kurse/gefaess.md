@@ -1,5 +1,5 @@
 ---
-title: AUSGEBUCHT - Gefäß mit einer Dekoration aus Blättern und Gräsern zum Herbstanfang - AUSGEBUCHT
+title: AUSGEBUCHT -  Gefäß mit einer Dekoration aus Blättern und Gräsern zum Herbstanfang - AUSGEBUCHT
 num: 2
 ---
 
