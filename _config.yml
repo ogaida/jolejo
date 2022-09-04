@@ -12,7 +12,8 @@ collections:
     output: true
   press:
     output: true
-
+  times:
+    output: true
 
 # # docker-compose up
 # 

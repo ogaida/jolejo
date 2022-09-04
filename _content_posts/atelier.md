@@ -16,12 +16,6 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-### allgemeine Öffnungszeiten:
-
-__Dienstag 10-15 Uhr__<br>
-__Mittwoch  15-18 Uhr__<br>
-__Donnerstag  13-20 Uhr__<br>
-
 ### Kooperationspartner
 
 - [https://www.milchkaffee-köpenick.de](https://www.milchkaffee-köpenick.de)
