@@ -1,6 +1,4 @@
 ---
-title: voraussichtlich bis 2. Oktober 2022 wegen Krankheit geschlossen
+title: voraussichtlich bis einschliesslich 4. Oktober 2022 wegen Krankheit geschlossen
 num: 0
 ---
-
-
