@@ -21,3 +21,8 @@ collections:
 # # jekyll serve --baseurl ''
 # # baseurl: www.jolejo.de
 # baseurl: ''
+
+
+## new release:
+# git tag release-name
+# git push --tags
