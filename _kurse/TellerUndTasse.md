@@ -1,5 +1,5 @@
 ---
-title: Teller und Tasse
+title: Teller und Tasse - bereits ausgebucht
 num: 3
 ---
 

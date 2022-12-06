@@ -1,5 +1,5 @@
 ---
-title: Vogelhaus
+title: Vogelhaus - bereits ausgebucht
 num: 2
 ---
 
