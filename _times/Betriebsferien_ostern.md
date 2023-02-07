@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien vom 24.12.2022 bis 10.01.2023
+title: Betriebsferien zu Ostern 06.04. - 16.04.2023
 num: 2
 ---
 
