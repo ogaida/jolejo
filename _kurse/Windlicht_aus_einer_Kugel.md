@@ -1,6 +1,6 @@
 ---
 title: Windlicht aus einer Kugel
-num: 4
+num: 2
 ---
 
 ### Freitag, 10.02.2023    17:00 ~ 19:30
