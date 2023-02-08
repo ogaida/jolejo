@@ -9,4 +9,4 @@ In diesem Workshop entstehen kleine Dosen, die auch gleich verziert und bemalt w
 
 Dieser Workshop ist auch gut für Kinder ab 9 Jahren geeignet.
 
-Kosten 45 € pro Person incl.Material -und Brennkosten.
+Kosten 47 € pro Person incl.Material -und Brennkosten.

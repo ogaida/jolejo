@@ -9,4 +9,4 @@ In diesem Kurs befassen wir uns mit der figürlichen Gestaltung zweier Hasen. Es
 
 Eine genaue Anleitung gebe ich im Kurs. Also keine Angst!
 
-Kosten 45,-€ pro Person incl. Material-und Brennkosten
+Kosten 47 € pro Person incl. Material-und Brennkosten

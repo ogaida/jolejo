@@ -1,5 +1,5 @@
 ---
-title: Windlicht in Plattentechnik
+title: Windlicht in Plattentechnik - DIESER KURS IST BERREITS AUSGEBUCHT
 num: 3
 ---
 

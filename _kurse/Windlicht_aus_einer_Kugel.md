@@ -1,5 +1,5 @@
 ---
-title: Windlicht aus einer Kugel
+title: Windlicht aus einer Kugel - DIESER KURS IST BERREITS AUSGEBUCHT
 num: 2
 ---
 
