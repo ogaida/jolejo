@@ -1,5 +1,5 @@
 ---
-title: Kleine Dosen mit Verzierungen
+title: Kleine Dosen mit Verzierungen - DIESER KURS IST BERREITS AUSGEBUCHT
 num: 4
 ---
 

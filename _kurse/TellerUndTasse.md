@@ -1,5 +1,5 @@
 ---
-title: Teller und Tasse!
+title: Teller und Tasse! - DIESER KURS IST BERREITS AUSGEBUCHT
 num: 6
 ---
 
