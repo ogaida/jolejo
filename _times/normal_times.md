@@ -1,5 +1,5 @@
 ---
-title: ab sofort gelten neue Öffnungszeiten
+title: Allgemeine Öffnungszeiten
 num: 2
 ---
 
