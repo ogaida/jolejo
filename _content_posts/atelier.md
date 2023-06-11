@@ -16,7 +16,7 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
-[Instagram](https://instagram.com/keramikatelierkoepenick?igshid=ZDdkNTZiNTM=)
+mein [Instagram](https://instagram.com/keramikatelierkoepenick?igshid=ZDdkNTZiNTM=) Account
 
 ### Kooperationspartner
 
