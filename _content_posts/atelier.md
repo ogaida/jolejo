@@ -16,6 +16,8 @@ Anfahrt: [Google-Maps](google_maps.html)
 
 ![ein Bild](bilder/nofelet_dna_liame.jpg)
 
+[Instagram](https://instagram.com/keramikatelierkoepenick?igshid=ZDdkNTZiNTM=)
+
 ### Kooperationspartner
 
 - [https://www.milchkaffee-köpenick.de](https://www.milchkaffee-köpenick.de)
