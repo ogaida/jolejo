@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien vom 24.12.2022 bis 10.01.2023
+title: Betriebsferien vom 30.10.2023 bis 03.11.2023
 num: 2
 ---
 
