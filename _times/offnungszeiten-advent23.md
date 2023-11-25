@@ -1,5 +1,5 @@
 ---
-title: aktuelle Öffnungszeiten im Advent 2023
+title: Öffnungszeiten im Advent 2023
 num: 0
 pictures:
   - advent23-offen
