@@ -5,8 +5,6 @@ pictures:
   - tag_der_offenen_toepferei
 ---
 
-[https://www.tag-der-offenen-toepferei.de](https://www.tag-der-offenen-toepferei.de)
-
 # Bastelei: kleine Osterhasen 
 
 <br>
@@ -22,3 +20,5 @@ Kosten pro Person 13,-€ für einen Hasen incl. Material -und Brennkosten
 Für diesen Kurs ist keine Anmeldung erforderlich. Ihr könnt euch aber gerne Plätze per E-Mail reservieren. 
 
 Außerdem gibt es Kaffee und Kuchen, Werkstattbesichtigung, Schaudrehen und Samenbomben herstellen. In der Zeit von 10-18 Uhr.
+
+[https://www.tag-der-offenen-toepferei.de](https://www.tag-der-offenen-toepferei.de)
