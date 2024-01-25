@@ -1,6 +1,8 @@
 ---
 title: Jetzt ist mein Backbuch endlich fertig!!!
 num: 1
+pictures:
+  - IMG_6234
 ---
 
 Wunderschöne Bilder sind in der Zusammenarbeit mit Andreas entstanden. ( http://www.ausloesungserscheinungen.de/)
