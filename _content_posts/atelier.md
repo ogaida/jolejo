@@ -1,6 +1,6 @@
 ---
 title: Keramikatelier Jolejo
-bild: atelier.jpg
+bild: atelier_new.jpg
 ---
 
 ### Hier finden Sie mich
