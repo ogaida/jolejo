@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien vom 30.10.2023 bis 03.11.2023
+title: Betriebsferien im Sommer 22.07. bis 12.08.2024
 num: 2
 ---
 
