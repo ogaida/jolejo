@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien vom 21.10. bis 28.10.2024
+title: Betriebsferien im Herbst vom 21.10. bis 28.10.2024
 num: 3
 ---
 

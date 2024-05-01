@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien vom 24.12.2024 bis 8.01.2025
+title: Betriebsferien an Weihnachten vom 24.12.2024 bis 8.01.2025
 num: 4
 ---
 
