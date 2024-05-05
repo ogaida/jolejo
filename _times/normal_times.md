@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Öffnungszeiten
-num: 10
+num: 0
 ---
 
 __Dienstag 10-15 Uhr__<br>
