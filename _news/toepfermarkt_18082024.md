@@ -9,3 +9,5 @@ pictures:
 Mehr als 40 Töpfereien, Keramikkünstler*innen und Porzellanmanufakturen aus ganz Deutschland laden hier zum Anschauen und Anfassen ein. Hier findet du bestimmt ein Lieblingsstück zum mit nach Hause nehmen.
 
 [https://www.spaethsche-baumschulen.de](https://www.spaethsche-baumschulen.de)
+
+[Link zum Flyer](./press/Toepfermarkt-Flyer_web.pdf)
