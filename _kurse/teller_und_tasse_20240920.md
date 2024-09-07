@@ -2,7 +2,6 @@
 title: Teller und Tasse!
 num: 2
 ---
-
 ### Freitag, 20.September 2024     16-18.45 Uhr
 
 Auf vielfachen Wunsch gibt es diesen Kurs noch einmal in diesem Jahr.
