@@ -1,5 +1,5 @@
 ---
-title:
+title: _kurse/_template.md
 num: 1
 ---
 
