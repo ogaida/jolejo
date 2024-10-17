@@ -1,6 +1,9 @@
 ---
-title: zusätzliche Weihnachtsöffnungszeiten
-num: 4
+title: zusätzliche Öffnungszeiten im Advent 2024
+num: 0
+#pictures:
+#  - advent23-offen
+#  - advent23-bild
 ---
 
 __Freitag,  13.12.2024 12-18 Uhr__
