@@ -3,6 +3,8 @@ title: Blumenkinder
 num: 6
 ---
 
+**Achtung: Kurs ist ausgebucht. Aufnahme in die Warteliste möglich.**
+
 **Samstag, 22.März 2025 15-17.45 Uhr**
 
 Wer Lust auf Figürliches und Frühling hat, ist in diesem Kurs richtig.
