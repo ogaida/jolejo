@@ -1,0 +1,27 @@
+<section id="main">
+    <div class="container">
+      <header>
+        <h2>Galerie</h2>
+      </header>
+      <div class="row aln-center">
+
+          <!-- Keramische Arbeit -->
+
+          {% for bericht in site.data.daten.pruefberichte %}
+          <article class="box post">
+            <a href="pruefberichte/{{ bericht }}">{{ bericht }}</a>
+            <header>
+             
+            </header>
+            <br>
+          </article>
+          {% endfor %}
+
+
+
+          <!-- Keramische Arbeit Ende -->
+
+
+      </div>
+    </div>
+</section>
