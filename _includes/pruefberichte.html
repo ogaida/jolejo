@@ -4,13 +4,13 @@
         <h2>Konformität</h2>
       </header>
       <div class="row aln-center">
-
+          <ul>
           {% for bericht in site.data.daten.pruefberichte %}
-            <p>
+            <li>
               <a href="pruefberichte/{{ bericht }}">{{ bericht }}</a>
-            </p>            
+            </li>            
           {% endfor %}
-
+          </ul>
 
 
           <!-- Keramische Arbeit Ende -->
