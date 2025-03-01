@@ -6,8 +6,9 @@
       <div class="row aln-center">
 
           {% for bericht in site.data.daten.pruefberichte %}
-            <a href="pruefberichte/{{ bericht }}">{{ bericht }}</a>
-            <br>
+            <p>
+              <a href="pruefberichte/{{ bericht }}">{{ bericht }}</a>
+            </p>            
           {% endfor %}
 
 
