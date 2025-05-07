@@ -26,3 +26,7 @@ collections:
 ## new release:
 # git tag release-name
 # git push --tags
+
+# or
+# tag=2025-03-01
+# cd /Users/ogaida/jolejo; git tag $tag ; git push --tags; cd -
