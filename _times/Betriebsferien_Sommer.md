@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien im Sommer 22.07. bis 12.08.2024
+title: Betriebsferien im Sommer 11.08.2025 bis 01.09.2025
 num: 2
 ---
 
