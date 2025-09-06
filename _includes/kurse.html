@@ -12,7 +12,27 @@
                 <h2>{{ post.title }} </h2>{{ post.datum }}
               </header>
               <br>
-              <!--<a href="bilder/{{ post.bild}}" class="image featured"><img src="bilder/{{ post.bild}}" alt="" /></a>-->
+                           <div class="row aln-center">
+
+                {% for pic in post.pictures %}
+
+                 <div class="col-4 col-6-medium col-12-small">
+                 <section>
+                   <a href="bilder/small/{{ pic }}.jpg" class="image featured"><img src="bilder/small/{{ pic }}.jpg" alt="" /></a>
+                   <header>
+                     <!--<h3></h3>-->
+                   </header>
+                   <!--<p>
+      </p>-->
+                 </section>
+                 </div>
+
+                {% endfor %}
+
+              </div>
+              
+              <br>
+              
               {{ post.content | markdownify }}
             </article>
             {% endfor %}
