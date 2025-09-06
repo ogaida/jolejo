@@ -1,6 +1,8 @@
 ---
 title: Fischers Fritze fischt frische Fische
 num: 251017
+pictures:
+  - fischers-fritze
 ---
 
 ### Freitag, 17.Oktober 2025 17:00-19:45 Uhr
