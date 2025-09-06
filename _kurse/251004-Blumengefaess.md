@@ -1,6 +1,8 @@
 ---
 title: Blumengefäß
 num: 251004
+pictures:
+  - blumengefaess
 ---
 
 ### Samstag, 4. Oktober 2025 10-13 Uhr

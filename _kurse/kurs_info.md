@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Kursinformationen
-num: 1
+num: 600000
 ---
 
 **Meine Kurse eignen sich für Anfänger und Fortgeschrittene. Kinder ab 10 Jahren können gerne an den Kursen teilnehmen. Vorkenntnisse sind nicht erforderlich!**
