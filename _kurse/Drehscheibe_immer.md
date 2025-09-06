@@ -1,6 +1,6 @@
 ---
 title: Drehscheibenkurs
-num: 10
+num: 500000
 ---
 
 Einen Drehscheibenkurs kannst du auch bei mir buchen.

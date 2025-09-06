@@ -28,5 +28,5 @@ collections:
 # git push --tags
 
 # or
-# tag=2025-03-01
+# tag=2025-05-10
 # cd /Users/ogaida/jolejo; git tag $tag ; git push --tags; cd -
