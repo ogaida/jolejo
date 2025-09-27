@@ -1,5 +1,5 @@
 ---
-title: Blumengefäß
+title: Blumengefäß - dieser Kurs ist ausgebucht, Warteliste möglich
 num: 251004
 pictures:
   - blumengefaess
