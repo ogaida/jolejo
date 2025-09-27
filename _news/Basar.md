@@ -1,5 +1,5 @@
 ---
-title: Adventsbasar in der Freien Waldorfschule Südost, Bruno-Bürgel-Weg 9 12439 Berlin am 29.11.2025 10:00 - 17:00 Uhr
+title: Adventsbasar in der Freien Waldorfschule Südost, Bruno-Bürgel-Weg 9 in 12439 Berlin am 29.11.2025 10:00 - 17:00 Uhr
 num: 2
 ---
 
