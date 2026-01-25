@@ -1,5 +1,5 @@
 ---
-title: Blumenkinder - der Kurs ist bereits ausgebucht.
+title: Blumenkinder - der Kurs ist bereits ausgebucht. Die Aufnahme in die Warteliste ist möglich
 num: 260418
 ---
 
