@@ -1,5 +1,5 @@
 ---
-title: Blumenkinder
+title: Blumenkinder - der Kurs ist bereits ausgebucht.
 num: 260418
 ---
 
