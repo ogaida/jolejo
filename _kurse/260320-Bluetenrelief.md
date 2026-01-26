@@ -1,5 +1,5 @@
 ---
-title: Blütenrelief zum Frühlingsanfang auch als Türschild geeignet
+title: Blütenrelief zum Frühlingsanfang auch als Türschild geeignet - der Kurs ist bereits ausgebucht. Die Aufnahme in die Warteliste ist möglich
 num: 260320
 ---
 
