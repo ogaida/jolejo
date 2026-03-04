@@ -1,5 +1,5 @@
 ---
-title: Tag der offenen Töpferei - am Wochenende 8./9.3.2025 von 10-18 Uhr
+title: Tag der offenen Töpferei - am Wochenende 14./15.3.2026 von 10-18 Uhr
 num: 1
 pictures:
   - tdot2026
