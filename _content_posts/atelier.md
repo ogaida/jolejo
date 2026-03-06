@@ -3,6 +3,10 @@ title: Keramikatelier Jolejo
 bild: atelier_new.jpg
 ---
 
+### Das Glück liegt in unseren Händen.
+
+In meiner Werkstatt in Berlin-Köpenick fertige ich liebevolle Keramikkunst und feines handgedrehtes Gebrauchsgeschirr.
+
 ### Hier finden Sie mich
 
 Keramikatelier Jolejo<br>
