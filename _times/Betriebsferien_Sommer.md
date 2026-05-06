@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien im Sommer 11.08.2025 bis 01.09.2025
+title: Betriebsferien im Sommer vom 1.08.-24.08.2026
 num: 2
 ---
 
