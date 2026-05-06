@@ -1,21 +1,22 @@
 <section id="main">
-    <div class="container">
-      <header>
-        <h2>Konformität</h2>
-      </header>
-      <div class="row aln-center">
-          <ul>
-          {% for bericht in site.data.daten.pruefberichte %}
-            <li>
-              <a href="pruefberichte/{{ bericht }}">{{ bericht }}</a>
-            </li>            
-          {% endfor %}
-          </ul>
-
-
-          <!-- Keramische Arbeit Ende -->
-
-
+  <div class="container">
+    <header>
+      <h2>Konformität</h2>
+    </header>
+    <div class="row">
+      <div id="content" class="col-12 col-12-medium">
+        Meine Keramik wurde mit viel Liebe hergestellt und bei 1160°C gebrannt. Sie ist als Ess-und Trinkgeschirr geeignet und wurde durch my-lab International GmbH überprüft und als geeignet eingestuft.
+        Ich arbeite für mehr Nachhaltigkeit mit Strom von Green Planet Energy.
       </div>
     </div>
+    <div class="row aln-center">
+      <ul>
+      {% for bericht in site.data.daten.pruefberichte %}
+        <li>
+          <a href="pruefberichte/{{ bericht }}">{{ bericht }}</a>
+        </li>            
+      {% endfor %}
+      </ul>   
+    </div>
+  </div>
 </section>
