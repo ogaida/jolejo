@@ -4,5 +4,5 @@ num: 2
 ---
 
 __Dienstag 10-15 Uhr__<br>
-__Mittwoch  13-18 Uhr__<br>
-__Donnerstag  13-19 Uhr__<br>
+__Mittwoch  12-18 Uhr__<br>
+__Donnerstag  12-18 Uhr__<br>
