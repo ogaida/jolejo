@@ -1,6 +1,6 @@
 ---
 title: 20. Kunst- und Keramikmarkt Kulturgut Marzahn Töpfermarkt - 14. und 15. November 2026 von 10 bis 18 Uhr - Alt-Marzahn 23, 12685 Berlin
-num: 7
+num: 20261114
 ---
 
 
