@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien im Herbst vom 25.10.2025 bis 3.11.2025
+title: Betriebsferien im Herbst vom 24.10.2026 bis 2.11.2026
 num: 3
 ---
 
