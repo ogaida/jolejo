@@ -1,5 +1,5 @@
 ---
-title: Blumengefäß
+title: Blumengefäß - der Kurs ist bereits ausgebucht. Die Aufnahme in die Warteliste ist möglich
 num: 261010
 pictures:
   - blumengefaess
