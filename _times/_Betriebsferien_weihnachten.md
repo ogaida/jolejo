@@ -1,5 +1,5 @@
 ---
-title: Betriebsferien an Weihnachten vom 24.12.2025 bis zum 13.01.2026
+title: Betriebsferien an Weihnachten vom 24.12.2026 bis zum 18.01.2027
 num: 5
 ---
 
